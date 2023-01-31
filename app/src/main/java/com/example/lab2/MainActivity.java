@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main_constraint);
 
         on_off_switch=findViewById(R.id.on_off_switch);
 
